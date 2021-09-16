@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b895c58b.chunk.css",
+    "main.js": "/static/js/main.87a0eb96.chunk.js",
+    "main.js.map": "/static/js/main.87a0eb96.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1a95e87c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1a95e87c.js.map",
+    "static/js/2.98f4bad4.chunk.js": "/static/js/2.98f4bad4.chunk.js",
+    "static/js/2.98f4bad4.chunk.js.map": "/static/js/2.98f4bad4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1e4a381396cd89434961fd45488c96b2.js": "/precache-manifest.1e4a381396cd89434961fd45488c96b2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b895c58b.chunk.css.map": "/static/css/main.b895c58b.chunk.css.map",
+    "static/js/2.98f4bad4.chunk.js.LICENSE.txt": "/static/js/2.98f4bad4.chunk.js.LICENSE.txt",
+    "static/media/Layout.css": "/static/media/50k-chip-cursor.d3fec7d7.png",
+    "static/media/1-chip.png": "/static/media/1-chip.7709563d.png",
+    "static/media/100-chip.png": "/static/media/100-chip.8c3bbfa1.png",
+    "static/media/1000-chip.png": "/static/media/1000-chip.7e2be536.png",
+    "static/media/100k-chip.png": "/static/media/100k-chip.7aaa1d59.png",
+    "static/media/10k-chip.png": "/static/media/10k-chip.d6783aa1.png",
+    "static/media/1m-chip.png": "/static/media/1m-chip.e52ccce7.png",
+    "static/media/25-chip.png": "/static/media/25-chip.efe78a0f.png",
+    "static/media/5-chip.png": "/static/media/5-chip.abedeb80.png",
+    "static/media/500-chip.png": "/static/media/500-chip.fdf5241c.png",
+    "static/media/500k-chip.png": "/static/media/500k-chip.a7600f09.png",
+    "static/media/50k-chip.png": "/static/media/50k-chip.d350dd55.png",
+    "static/media/App.css": "/static/media/back1.e6c5452c.jpg",
+    "static/media/black-diamond.png": "/static/media/black-diamond.fa678195.png",
+    "static/media/blank-chip.png": "/static/media/blank-chip.4b267d3b.png",
+    "static/media/red-diamond.png": "/static/media/red-diamond.9bf48437.png",
+    "static/media/ribbon.png": "/static/media/ribbon.c8754bb5.png",
+    "static/media/spin-circle.png": "/static/media/spin-circle.f9be5d69.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a95e87c.js",
+    "static/js/2.98f4bad4.chunk.js",
+    "static/css/main.b895c58b.chunk.css",
+    "static/js/main.87a0eb96.chunk.js"
+  ]
+}
